@@ -1,5 +1,5 @@
 
-The purpose of this repository is to publish answers to questions asked on various sites during competitive programming competitions.
+The purpose of this repository is to publish solutions to problems asked on various sites during competitive programming competitions.
 
 [Techgig](https://github.com/code-flu/problems/tree/main/techgig)
  - [Tom and Jerry](https://github.com/code-flu/problems/tree/main/techgig/tom_and_jerry)
