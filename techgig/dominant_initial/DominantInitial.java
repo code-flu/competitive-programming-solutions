@@ -14,7 +14,7 @@ public class CandidateCode {
               .mapToObj(c -> (char) c)
               .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
       char max = str.charAt(0);
-      for (Character key : charFrequency.keySet()) // 5
+      for (Character key : charFrequency.keySet())
       {
         if (charFrequency.get(key) > charFrequency.get(max)) max = key;
       }
