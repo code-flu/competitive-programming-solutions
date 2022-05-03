@@ -12,6 +12,7 @@ The purpose of this repository is to publish solutions to problems asked on vari
  - [Tribes Problem](https://github.com/code-flu/problems/tree/main/techgig/tribes_problem)
  - [Virus Outbreak](https://github.com/code-flu/problems/tree/main/techgig/virus_outbreak)
  - [Dominant Initial](https://github.com/code-flu/problems/tree/main/techgig/dominant_initial)
+ - [Tiger Track](https://github.com/code-flu/problems/tree/main/techgig/tiger_track)
 
 [Code Gladiator 2022](https://github.com/code-flu/problems/tree/main/code-gladiator-2022) 
  - [World Army vs Aliens](https://github.com/code-flu/problems/tree/main/code-gladiator-2022/world_army_vs_aliens)
