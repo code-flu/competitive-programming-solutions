@@ -11,6 +11,7 @@ The purpose of this repository is to publish solutions to problems asked on vari
  - [The New Year Game](https://github.com/code-flu/problems/tree/main/techgig/the_new_year_game)
  - [Tribes Problem](https://github.com/code-flu/problems/tree/main/techgig/tribes_problem)
  - [Virus Outbreak](https://github.com/code-flu/problems/tree/main/techgig/virus_outbreak)
+ - [Dominant Initial](https://github.com/code-flu/problems/tree/main/techgig/dominant_initial)
 
 [Code Gladiator 2022](https://github.com/code-flu/problems/tree/main/code-gladiator-2022) 
  - [World Army vs Aliens](https://github.com/code-flu/problems/tree/main/code-gladiator-2022/world_army_vs_aliens)
