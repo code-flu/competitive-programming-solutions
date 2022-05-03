@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-public class CandidateCodex {
+public class CandidateCode {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int t = sc.nextInt();
