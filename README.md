@@ -14,6 +14,7 @@ The purpose of this repository is to publish solutions to problems asked on vari
  - [Dominant Initial](https://github.com/code-flu/problems/tree/main/techgig/dominant_initial)
  - [Tiger Track](https://github.com/code-flu/problems/tree/main/techgig/tiger_track)
  - [Harry The Mathematician](https://github.com/code-flu/problems/tree/main/techgig/harry_the_mathematician)
+ - [Save The City](https://github.com/code-flu/problems/tree/main/techgig/save_the_city)
 
 [Code Gladiator 2022](https://github.com/code-flu/problems/tree/main/code-gladiator-2022) 
  - [World Army vs Aliens](https://github.com/code-flu/problems/tree/main/code-gladiator-2022/world_army_vs_aliens)
