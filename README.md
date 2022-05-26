@@ -1,7 +1,10 @@
 
 The purpose of this repository is to publish solutions to problems asked on various sites during competitive programming competitions.
 
-[Techgig](https://github.com/code-flu/problems/tree/main/techgig)
+[Leetcode Program Solutions](https://github.com/code-flu/problems/tree/main/leetcode)
+
+
+[Techgig Program Solutions](https://github.com/code-flu/problems/tree/main/techgig)
  - [Tom and Jerry](https://github.com/code-flu/problems/tree/main/techgig/tom_and_jerry)
  - [Vikram Betal](https://github.com/code-flu/problems/tree/main/techgig/vikram_betal)
  - [Prime Game](https://github.com/code-flu/problems/tree/main/techgig/prime_game)
@@ -16,6 +19,7 @@ The purpose of this repository is to publish solutions to problems asked on vari
  - [Harry The Mathematician](https://github.com/code-flu/problems/tree/main/techgig/harry_the_mathematician)
  - [Save The City](https://github.com/code-flu/problems/tree/main/techgig/save_the_city)
  - [Fruit Market](https://github.com/code-flu/problems/tree/main/techgig/fruit_market)
+ - [Pair Shopping](https://github.com/code-flu/problems/tree/main/techgig/pair_shopping)
 
 [Code Gladiator 2022](https://github.com/code-flu/problems/tree/main/code-gladiator-2022) 
  - [World Army vs Aliens](https://github.com/code-flu/problems/tree/main/code-gladiator-2022/world_army_vs_aliens)
