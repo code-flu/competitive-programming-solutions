@@ -1,10 +1,10 @@
 
 The purpose of this repository is to publish solutions to problems asked on various sites during competitive programming competitions.
 
-[Leetcode Program Solutions](https://github.com/code-flu/problems/tree/main/leetcode)
+[Leetcode Solutions](https://github.com/code-flu/problems/tree/main/leetcode)
 
 
-[Techgig Program Solutions](https://github.com/code-flu/problems/tree/main/techgig)
+[Techgig Solutions](https://github.com/code-flu/problems/tree/main/techgig)
  - [Tom and Jerry](https://github.com/code-flu/problems/tree/main/techgig/tom_and_jerry)
  - [Vikram Betal](https://github.com/code-flu/problems/tree/main/techgig/vikram_betal)
  - [Prime Game](https://github.com/code-flu/problems/tree/main/techgig/prime_game)
@@ -27,12 +27,14 @@ The purpose of this repository is to publish solutions to problems asked on vari
 [Code Gladiator 2022](https://github.com/code-flu/problems/tree/main/code-gladiator-2022) 
  - [World Army vs Aliens](https://github.com/code-flu/problems/tree/main/code-gladiator-2022/world_army_vs_aliens)
  - [Chantu Bantu](https://github.com/code-flu/problems/tree/main/code-gladiator-2022/chantu_bantu)
+ - [Exam Center](https://github.com/code-flu/problems/tree/main/code-gladiator-2022/exam_center)
+ - [Movie Theater](https://github.com/code-flu/problems/tree/main/code-gladiator-2022/movie_theater)
 
 [Geek Godesses 2021](https://github.com/code-flu/problems/tree/main/geek-godesses-2021)
  - [Prime String](https://github.com/code-flu/problems/tree/main/geek-godesses-2021/prime_string)
 
-For More Visit - https://www.codeflu.com
+Visit - https://www.codeflu.com
 
 Youtube - https://www.youtube.com/channel/UCQkXP1yHVt64aTeS7xI4_qA
 
-Join Telegram - https://t.me/codeflu. (**1000+ memebers already joined**)
+Join Telegram - https://t.me/codeflu. (**1100+ memebers already joined**)
