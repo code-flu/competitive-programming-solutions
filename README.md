@@ -24,6 +24,7 @@ The purpose of this repository is to publish solutions to problems asked on vari
  - [Candy Shop](https://github.com/code-flu/problems/tree/main/techgig/candy%20shop)
  - [Rani and Sheena](https://github.com/code-flu/problems/tree/main/techgig/rani_and_sheena)
  - [17 Phobia](https://github.com/code-flu/problems/tree/main/techgig/17_phobia)
+-  [Date Shopping](https://github.com/code-flu/problems/tree/main/techgig/date_shopping)
 
 [Code Gladiator 2022](https://github.com/code-flu/problems/tree/main/code-gladiator-2022) 
  - [World Army vs Aliens](https://github.com/code-flu/problems/tree/main/code-gladiator-2022/world_army_vs_aliens)
