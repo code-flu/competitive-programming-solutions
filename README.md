@@ -28,17 +28,20 @@ The purpose of this repository is to publish solutions to problems asked on vari
  - [Lazy Intern](https://github.com/code-flu/problems/tree/main/techgig/lazy_intern)
 
 
-[Code Gladiator 2022](https://github.com/code-flu/problems/tree/main/code-gladiator-2022) 
- - [World Army vs Aliens](https://github.com/code-flu/problems/tree/main/code-gladiator-2022/world_army_vs_aliens)
- - [Chantu Bantu](https://github.com/code-flu/problems/tree/main/code-gladiator-2022/chantu_bantu)
- - [Exam Center](https://github.com/code-flu/problems/tree/main/code-gladiator-2022/exam_center)
- - [Movie Theater](https://github.com/code-flu/problems/tree/main/code-gladiator-2022/movie_theater)
+[Geek Godesses 2022](https://github.com/code-flu/problems/tree/main/geek-godesses/2022)
+ - [Prime String](https://github.com/code-flu/problems/tree/main/geek-godesses/2022/chief_election)
 
-[Geek Godesses 2021](https://github.com/code-flu/problems/tree/main/geek-godesses-2021)
- - [Prime String](https://github.com/code-flu/problems/tree/main/geek-godesses-2021/prime_string)
+[Code Gladiator 2022](https://github.com/code-flu/problems/tree/main/code-gladiator/2022) 
+ - [World Army vs Aliens](https://github.com/code-flu/problems/tree/main/code-gladiator/2022/world_army_vs_aliens)
+ - [Chantu Bantu](https://github.com/code-flu/problems/tree/main/code-gladiator/2022/chantu_bantu)
+ - [Exam Center](https://github.com/code-flu/problems/tree/main/code-gladiator/2022/exam_center)
+ - [Movie Theater](https://github.com/code-flu/problems/tree/main/code-gladiator/2022/movie_theater)
+
+[Geek Godesses 2021](https://github.com/code-flu/problems/tree/main/geek-godesses/2021)
+ - [Prime String](https://github.com/code-flu/problems/tree/main/geek-godesses/2021/prime_string)
 
 Visit - https://www.codeflu.com
 
 Youtube - https://www.youtube.com/channel/UCQkXP1yHVt64aTeS7xI4_qA
 
-Join Telegram - https://t.me/codeflu. (**1200+ memebers already joined**)
+Join Telegram - https://t.me/codeflu. (**1100+ memebers already joined**)
