@@ -43,9 +43,9 @@ Join Telegram - https://t.me/codeflu. (**1200+ memebers already joined**)
 [Code Gladiator](https://github.com/code-flu/problems/tree/main/code-gladiator) 
 | Problem | Language |Date
 |--|--|--|
-|  [Exam Center](https://github.com/code-flu/problems/tree/main/code-gladiator/2022/exam_center) | Java, Python | 39-Aug-2022
+|  [Exam Center](https://github.com/code-flu/problems/tree/main/code-gladiator/2022/exam_center) | Java, Python | 29-Aug-2022
 |  [Movie Theater](https://github.com/code-flu/problems/tree/main/code-gladiator/2022/movie_theater) | Java | 30-Jul-2022
 |  [Chantu Bantu](https://github.com/code-flu/problems/tree/main/code-gladiator/2022/chantu_bantu) | C++, Java, Python, Php | 29-Apr-2022
 | [World Army vs Aliens](https://github.com/code-flu/problems/tree/main/code-gladiator/2022/world_army_vs_aliens) | C, C++, Java, Python, Go | 29-Apr-2022
 
-### [Leetcode Solutions](https://github.com/code-flu/problems/tree/main/leetcode) 
+### [Leetcode Solutions](https://github.com/code-flu/problems/tree/main/leetcode)
