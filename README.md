@@ -37,6 +37,7 @@ Join Telegram - https://t.me/codeflu. (**1200+ memebers already joined**)
 ### [Geek Godesses](https://github.com/code-flu/problems/tree/main/geek-godesses)
 | Problem | Language |Date
 |--|--|--|
+| [Carnival](https://github.com/code-flu/problems/tree/main/geek-godesses/2022/carnival) | Java, Python | 30-Aug-2022
 | [Chief Election](https://github.com/code-flu/problems/tree/main/geek-godesses/2022/chief_election) | Java, Python | 29-Aug-2022
 | [Prime String](https://github.com/code-flu/problems/tree/main/geek-godesses/2021/prime_string) | Java, Python | year-2021
 
