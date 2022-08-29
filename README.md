@@ -40,7 +40,7 @@ Join Telegram - https://t.me/codeflu. (**1200+ memebers already joined**)
 | [Chief Election](https://github.com/code-flu/problems/tree/main/geek-godesses/2022/chief_election) | Java, Python | 29-Aug-2022
 | [Prime String](https://github.com/code-flu/problems/tree/main/geek-godesses/2021/prime_string) | Java, Python | year-2021
 
-[Code Gladiator](https://github.com/code-flu/problems/tree/main/code-gladiator) 
+### [Code Gladiator](https://github.com/code-flu/problems/tree/main/code-gladiator) 
 | Problem | Language |Date
 |--|--|--|
 |  [Exam Center](https://github.com/code-flu/problems/tree/main/code-gladiator/2022/exam_center) | Java, Python | 29-Aug-2022
