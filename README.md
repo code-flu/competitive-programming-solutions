@@ -12,6 +12,7 @@ Join Telegram - https://t.me/codeflu. (**1200+ memebers already joined**)
 
 | Problem | Language |Date
 |--|--|--|
+| [Grizzly Hunting Salmons](https://github.com/code-flu/problems/tree/main/techgig/grizzly_hunting_salmons) | Java, Python | 07-Nov-2022
 | [Lazy Intern](https://github.com/code-flu/problems/tree/main/techgig/lazy_intern) | Java | 20-Aug-2022
 | [Date Shopping](https://github.com/code-flu/problems/tree/main/techgig/date_shopping) | Java, C# | 6-Aug-2022
 | [17 Phobia](https://github.com/code-flu/problems/tree/main/techgig/17_phobia) | Java | 26-Jul-2022
