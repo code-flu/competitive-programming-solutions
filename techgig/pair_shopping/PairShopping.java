@@ -22,8 +22,7 @@ public class CandidateCode {
 			long totalBudget = 0L;
 			boolean b = true;
 			for (int i = 0; i < n; i++) {
-				totalBudget += (long) tops[i] * skirts[i];
-				System.out.println(tops[i] + "*" + skirts[i] + "=>" + totalBudget);
+				totalBudget += (long) tops[i] * skirts[i];				
 				if (totalBudget > m) {
 					b = false;
 					System.out.println("NO");
