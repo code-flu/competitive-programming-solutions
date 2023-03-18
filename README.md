@@ -12,6 +12,7 @@ Join Telegram - https://t.me/codeflu. (**1200+ memebers already joined**)
 
 | Problem | Language |Date
 |--|--|--|
+| [Books Availability](https://github.com/code-flu/problems/tree/main/techgig/books_availability) | Java, Python, C++ | 18-Mar-2023
 | [False Attendance Problem](https://github.com/code-flu/problems/tree/main/techgig/false_attendance_problem) | Java, C# | 18-Mar-2023
 | [Game Center - Prime code Champ](https://github.com/code-flu/problems/tree/main/techgig/game_center) | Java, Python | 17-Jan-2023
 | [Grizzly Hunting Salmons](https://github.com/code-flu/problems/tree/main/techgig/grizzly_hunting_salmons) | Java, Python | 07-Nov-2022
