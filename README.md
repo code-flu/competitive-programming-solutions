@@ -12,6 +12,7 @@ Join Telegram - https://t.me/codeflu. (**1200+ memebers already joined**)
 
 | Problem | Language |Date
 |--|--|--|
+| [False Attendance Problem](https://github.com/code-flu/problems/tree/main/techgig/false_attendance_problem) | Java, C# | 18-Mar-2023
 | [Game Center - Prime code Champ](https://github.com/code-flu/problems/tree/main/techgig/game_center) | Java, Python | 17-Jan-2023
 | [Grizzly Hunting Salmons](https://github.com/code-flu/problems/tree/main/techgig/grizzly_hunting_salmons) | Java, Python | 07-Nov-2022
 | [Lazy Intern](https://github.com/code-flu/problems/tree/main/techgig/lazy_intern) | Java | 20-Aug-2022
@@ -50,5 +51,3 @@ Join Telegram - https://t.me/codeflu. (**1200+ memebers already joined**)
 |  [Movie Theater](https://github.com/code-flu/problems/tree/main/code-gladiator/2022/movie_theater) | Java | 30-Jul-2022
 |  [Chantu Bantu](https://github.com/code-flu/problems/tree/main/code-gladiator/2022/chantu_bantu) | C++, Java, Python, Php | 29-Apr-2022
 | [World Army vs Aliens](https://github.com/code-flu/problems/tree/main/code-gladiator/2022/world_army_vs_aliens) | C, C++, Java, Python, Go | 29-Apr-2022
-
-### [Leetcode Solutions](https://github.com/code-flu/problems/tree/main/leetcode)
